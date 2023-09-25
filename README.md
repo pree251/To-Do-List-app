@@ -1,7 +1,7 @@
 # To-Do-List
 ## A to-do list app which will allow you to add the goals you want to accomplish today and then later check them off when you've achieved them! <br/>
 It shows the current day, date and month at the top so you can keep track of your to-do lists. </br>
-You also have the option to make custom lists in case you don't want to mix your personal and professional goals for the day. </br>
+You also have the option to make custom lists in case you do not want to mix your personal and professional goals for the day. </br>
 To the url, just add "/<customListName>" in order to access the your desired custom list. </br>
 
 ### TECH STACK USED: 
