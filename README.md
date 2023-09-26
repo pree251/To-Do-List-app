@@ -4,6 +4,8 @@ It shows the current day, date and month at the top so you can keep track of you
 You also have the option to make custom lists in case you do not want to mix your personal and professional goals for the day. </br>
 To the url, just add "/<customListName>" in order to access the your desired custom list. </br>
 
+---
+
 ### TECH STACK USED: 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="41" width="60" alt="html5 logo"  />
